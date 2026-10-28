@@ -1,0 +1,10 @@
+{
+  "name": "typefold",
+  "version": "1.0.0",
+  "description": "Render PDFs and images from your Typefold templates, and build visual templates, from Cursor's agent.",
+  "author": { "name": "Runecode OÜ", "email": "support@typefold.dev" },
+  "homepage": "https://typefold.dev/mcp",
+  "license": "MIT",
+  "keywords": ["pdf", "documents", "templates", "invoices", "reports", "mcp"],
+  "logo": "assets/logo.svg"
+}
